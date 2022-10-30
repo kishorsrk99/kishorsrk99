@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sriram Rvikishor
+- 👋 Hi, I’m sriram Ravikishor
 - 👀 I’m interested in the field of data science
 - 🌱 I’m currently persuing msc statistics and computing from Banaras Hindu University,varanasi.
 - 💞️ I’m looking to collaborate on projects or challenges of data analytics,data visualisation and machine learning.
